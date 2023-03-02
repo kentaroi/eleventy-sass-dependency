@@ -1,0 +1,5 @@
+@use "theme";
+
+body {
+  background: theme.$background;
+}
